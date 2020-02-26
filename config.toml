@@ -1,0 +1,6 @@
+baseURL = "https://makoragi.github.io/"
+languageCode = "ja-jp"
+title = "makoragi portfolio"
+theme = "minimal"
+publishDir = "docs"
+
