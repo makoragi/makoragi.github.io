@@ -3,11 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://makoragi.github.io/categories/</loc>
+    <loc>https://makoragi.github.io/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://makoragi.github.io/about/</loc>
+    <lastmod>2020-02-27T09:52:50+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://makoragi.github.io/</loc>
+    <lastmod>2020-02-27T09:52:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makoragi.github.io/post/hello/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makoragi.github.io/post/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makoragi.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://makoragi.github.io/tags/clapperchal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://makoragi.github.io/tags/kumamcn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://makoragi.github.io/project/</loc>
   </url>
   
   <url>
