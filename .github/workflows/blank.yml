@@ -17,6 +17,5 @@ jobs:
       run: |
         echo git branch
         git branch
-        echo git subtree push --prefix docs/ origin master
-        git subtree push --prefix docs/ origin master
-        git push origin `git subtree split --prefix=docs/ --onto=origin:master`:master
+        echo push origin `git subtree split --prefix=docs/ --onto=origin:master`:master --force
+        git push origin `git subtree split --prefix=docs/ --onto=origin:master`:master --force
