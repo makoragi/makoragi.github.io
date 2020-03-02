@@ -15,5 +15,7 @@ jobs:
         ref: source
     - name: Run Subtree
       run: |
+        echo git branch
         git branch
-        ls
+        echo git subtree push --prefix docs/ origin master
+        git subtree push --prefix docs/ origin master
